@@ -1,0 +1,17 @@
+{
+  "name": "Gitpage Dalton'",
+  "short_name": "GitDalt",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#181818",
+  "description": "An awesome app that does amazing things.",
+  "categories": [
+        "development",
+        "repository",
+        "staticsite"
+    ],
+  "lang": "en",
+  "id": "/?source=pwa",
+  "start_url": "/?source=pwa"
+}
