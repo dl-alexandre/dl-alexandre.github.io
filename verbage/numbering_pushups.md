@@ -36,8 +36,8 @@ In the second cell, use the formula =A1 - SUM(Amounts) to subtract the sum of ou
 Use the formatting toolbar to set the characteristics of the numbers and dates. Numbers for amounts, dates for times.
 
 <p align="center">
-    <img src="looks/numbering_pushups/numberformatting.png" alt="Number Formatting" width="256" height="120" />
-    <img src="looks/numbering_pushups/date&timeformatting.png" alt="Date and Time Formatting" width="256" height="120" />
+    <img src="../looks/numbering_pushups/numberformatting.png" alt="Number Formatting" width="256" height="120" />
+    <img src="../looks/numbering_pushups/date&timeformatting.png" alt="Date and Time Formatting" width="256" height="120" />
 </p>
 
 ## Part Four - Table Formatting
