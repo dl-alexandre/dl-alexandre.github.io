@@ -7,14 +7,10 @@ Before my shoulders started feeling like they’d fall off, I set myself on a mi
 ### Step 1: Create a Table
 
 Create a table with two columns: Amount and Time.
-
-<div align="center">
     
 | Amount | Time       |
 |--------|------------|
 |        |            |
-
-</div>
 
 ### Step 2: Populate the Ledger
 
@@ -28,13 +24,10 @@ For Time, we want the current date to be automatically pasted into our ledger wh
 Create a third table with two cells: one for our goal (10,000) and another for the remaining push-ups.
 In the second cell, use the formula =A1 - SUM(Amounts) to subtract the sum of our amounts from the goal.
 
-<div align="center">
     
 |   10,000   |
 |------------|
 |    9,900   |
-
-</div>
 
 ## Part Three - Cell Formatting
 
