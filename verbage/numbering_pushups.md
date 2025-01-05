@@ -9,9 +9,11 @@ Before my shoulders started feeling like they’d fall off, I set myself on a mi
 Create a table with two columns: Amount and Time.
 
 <div align="center">
+    
 | Amount | Time       |
 |--------|------------|
 |        |            |
+
 </div>
 
 ### Step 2: Populate the Ledger
@@ -27,9 +29,11 @@ Create a third table with two cells: one for our goal (10,000) and another for t
 In the second cell, use the formula =A1 - SUM(Amounts) to subtract the sum of our amounts from the goal.
 
 <div align="center">
+    
 |   10,000   |
 |------------|
 |    9,900   |
+
 </div>
 
 ## Part Three - Cell Formatting
